@@ -2,7 +2,7 @@
 /*
 Plugin Name: WP user upload limiter
 Plugin URI: http://yogurt-design.com
-Description: WP user upload limiter
+Description: Limit total size of files downloaded by the user.
 Author: Tit@r
 Version: 1.0
 Author URI: http://yogurt-design.com
